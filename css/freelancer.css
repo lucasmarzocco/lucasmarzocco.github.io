@@ -190,17 +190,6 @@ section.success {
   color: white;
 }
 
-section.aboutmeinfo {
-  background: #18BC9C;
-  color: white;
-}
-
-
-
-
-
-
-
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
