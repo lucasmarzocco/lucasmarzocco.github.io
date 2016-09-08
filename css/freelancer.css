@@ -189,6 +189,18 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+
+section.aboutme {
+  background: #18BC9C;
+  color: white;
+}
+
+
+
+
+
+
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
@@ -311,6 +323,16 @@ footer .footer-below {
   padding: 25px 0;
   background-color: #233140;
 }
+
+
+
+
+
+
+
+
+
+
 .btn-outline {
   color: white;
   font-size: 20px;
