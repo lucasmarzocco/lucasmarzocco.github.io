@@ -85,6 +85,8 @@ h1 {
 }
 
 h1 span {
+  display: inline-block;
+  padding-right: 0.08em;
   color: transparent;
   background: linear-gradient(100deg, var(--text) 10%, #cbb7ff 58%, var(--accent));
   background-clip: text;
